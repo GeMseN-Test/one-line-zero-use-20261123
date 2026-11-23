@@ -1,0 +1,53 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68",
+  "phase": "dev",
+  "bundle_sha256": "783dcfc7dcaf8cb9e8a591cfb45834d6bd68e277817961d56250c276c89b2eec",
+  "dataset_sha256": null,
+  "harness_version": "harness@138ae4fc84b70e5b925b47e3237717ab812e841ff9b3100c934b17a395cc8071 node v26.13.1",
+  "scorer_version": "scorer@8106eed1540909eb0a629de83fe13ac4af8f2cd5ce8a4c7943531b6348624de3 program@49e164c1bcda970b1d451c8e371f5fe6c2f1b7dd483219cc1745c0493c9784e3",
+  "pricing_rev": "34d1007cd9dd19a1d751a8b87e79e95c181a94b3e791b1a546de6dac11435dbe",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "25e411c0409dbba7da2d10d842d0157f8d2b3b5577ba4d376c0f9e375f12428b",
+      "size": 72719
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "6ef107398f6201d3db9e6b33b94730b0f8b585555a36984070f63d4e3941b90a",
+      "size": 17235795
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "6619fd8e6497e6a887507e0024660ecd64e2b6aadee14fce79236b510c7b7a82",
+      "size": 27062
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "979157b75652f3724c1e066e2caf2c2a2c126c7e245675c24d6142153d2f3599",
+      "size": 20688
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "a9ffa4322223c2788c36d0b4063869eb7db79181f84e10e10ca23681bcfb295b",
+      "size": 20688
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "17361e01974e141d76d9f44f28b1f85df9a8ddb9c951f3668e389915d2c1c037",
+      "size": 3062822
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "cdc9e06e1fa0747e0611c39fb73b4f9b28fd8e5b6d0237c81cecfcd48cbac934",
+      "size": 85
+    }
+  ]
+}
